@@ -47,4 +47,3 @@ Open it using Power BI Desktop.
 
 Author: Kanak Sharma Academic Background: B.Tech in Materials and Metallurgical Engineering
 
-How to View
